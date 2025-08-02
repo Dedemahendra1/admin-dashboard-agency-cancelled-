@@ -29,7 +29,6 @@ This repository contains an unfinished freelance project for an agency dashboard
 - ✅ Admin authentication using NextAuth
 - ✅ Role-based access control (RBAC)
 - ✅ Responsive admin dashboard layout
-- ⏳ Planned: AI Assistant integration using HuggingFace
 - ⏳ Planned: Content categories and editor
 
 ---
